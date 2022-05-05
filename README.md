@@ -1,2 +1,2 @@
-# hello-megaptera
-This is my third repository.
+# hello-megaptera!
+This is my third Git repository.
